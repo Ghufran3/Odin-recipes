@@ -1,4 +1,4 @@
-# Odin_recipes
+# Odin_recipies
 
 ## Project Overview 🍳
 A simple recipe website demonstrating basic HTML skills learned through The Odin Project curriculum. 
